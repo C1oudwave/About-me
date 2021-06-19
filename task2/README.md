@@ -29,7 +29,7 @@ def add_operation(operation):
     calc.insert(0,value+operation)
     calc['state'] = tk.DISABLED
 
-# Основные функции нащего калькулятора   
+# Основные функции нашего калькулятора   
 
 def calculate():
     calc['state'] = tk.NORMAL
