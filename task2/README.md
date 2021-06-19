@@ -2,7 +2,9 @@
 
 
 #Подключаем библотеки (в том числе mpmath для реализции функций sin, cos и т.д)
+
 import tkinter as tk
+
 from tkinter import messagebox
 from mpmath import *
 mp.dps = 25; mp.pretty = True
