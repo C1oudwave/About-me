@@ -1,3 +1,9 @@
 ﻿# kn20
 
+Калькулятор считает как целые, так и дробные числа.
+Поддержка стандартных и продвинутых функций - (+, -, /, *, sin, cos, tan, ctg, sec, csc, %, ln, lg)
+![image](https://user-images.githubusercontent.com/84195621/122643875-f41f9f00-d11a-11eb-8ae3-b298b0313c8f.png)
 
+Доступен перевод с десятичной системы в двоичную. И наоборот.
+![image](https://user-images.githubusercontent.com/84195621/122643963-56789f80-d11b-11eb-931d-b70c9c9cee4a.png)
+![image](https://user-images.githubusercontent.com/84195621/122643972-5bd5ea00-d11b-11eb-86b0-e9634c5f60c5.png)
