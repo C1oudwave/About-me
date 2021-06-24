@@ -1,4 +1,5 @@
 ﻿# kn20
 
 Приложение позволяет отследить 10 стран в Азии по таким параметрам: Количество зараженных, умершим и выздоровевшим. Также, доступен поиск среди Азиатских стран.
-![image](https://user-images.githubusercontent.com/84195621/123235690-c6ed3b00-d4e4-11eb-94ac-2cdf0aca1c6b.png)
+![image](https://user-images.githubusercontent.com/84195621/123238367-1d5b7900-d4e7-11eb-9fe6-4a2ecddb8d6f.png)
+
